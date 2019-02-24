@@ -1,0 +1,185 @@
+/* vietnamese */
+#player {
+    -webkit-filter: blur(1px);
+    -moz-filter: blur(1px);
+    -o-filter: blur(1px);
+    -ms-filter: blur(1px);
+    filter: blur(1px);
+}
+form {
+   margin-left:auto;
+   margin-right:auto;
+   width:100px;
+}
+.japanese {
+	font-size: 300%;
+	-webkit-text-stroke-width: 0px;
+   -webkit-text-stroke-color: black;
+  color: white;
+  text-shadow: 0px 0px 30px white,0px 0px 30px white,0px 0px 30px white,0px 0px 10px #553300,0px 0px 10px #553300;
+}
+.japanese2 {
+	-webkit-text-stroke-width: 0px;
+   -webkit-text-stroke-color: black;
+  color: white;
+  text-shadow: 0px 0px 5px white,0px 0px 5px white,0px 0px 5px white,0px 0px 10px #553300,0px 0px 10px #553300;
+}
+.japanese3 {
+	font-size: 200%;
+	-webkit-text-stroke-width: 0px;
+   -webkit-text-stroke-color: black;
+  color: white;
+  text-shadow: 0px 0px 10px white,0px 0px 10px white,0px 0px 10px white,0px 0px 5px #553300,0px 0px 5px #553300;
+}
+.shoutout {
+	font-size: 100%;
+	position: absolute;
+		bottom: 70%;
+		right: 48%;
+	-webkit-text-stroke-width: 0px;
+   -webkit-text-stroke-color: black;
+  color: white;
+  text-shadow: 0px 0px 10px white,0px 0px 10px white,0px 0px 10px white,0px 0px 5px #553300,0px 0px 5px #553300;
+}
+topp {
+    font-size: 200%;
+position: relative;
+bottom: 200;
+}
+#info { 
+    height: 60px; 
+    position: fixed; 
+	left: 0%;
+    bottom:0%;
+    width:100%; 
+    background-color: #393838;  
+    opacity: 1;
+}
+#info2 { 
+    height: 60px; 
+    position: fixed; 
+    bottom: 99%;
+    width:100%; 
+    background-color: #393838; 
+    opacity: 1;
+}
+.emotion { 
+    font-size: 200%;
+	position: fixed; 
+    bottom: 73.5%; 
+	left: 44.5%
+}
+.emotion2 { 
+    font-size: 200%;
+	position: fixed; 
+    bottom: 73.5%; 
+	left: 53%
+}
+.overlay{
+	position: absolute;
+	z-index: 3;
+}
+.timer{
+	position: absolute;
+	bottom: 50%;
+	right: 50%
+	font-size: 150%;
+}
+.yuko {
+	position: absolute;
+		bottom: 61%;
+		right: -49.5%;
+		  color: white;
+  text-shadow: 0px 0px 10px white,0px 0px 10px white,0px 0px 10px white,0px 0px 5px #553300,0px 0px 5px #553300;
+}
+.yuko3 {
+	position: absolute;
+		bottom: 61%;
+		right: -52.9%;
+		  color: white;
+  text-shadow: 0px 0px 10px white,0px 0px 10px white,0px 0px 10px white,0px 0px 5px #553300,0px 0px 5px #553300;
+}
+.yuko2 {
+	position: absolute;
+		bottom: 61%;
+		right: -45.7%;
+		  color: white;
+  text-shadow: 0px 0px 10px white,0px 0px 10px white,0px 0px 10px white,0px 0px 5px #553300,0px 0px 5px #553300;
+}
+.rectangle{
+position: fixed;
+bottom: 64%;
+right: 48.3%;
+    width:13px;
+    height:50px;
+    background:white;
+	box-shadow: 0px 0px 10px white,0px 0px 10px white,0px 0px 10px white,0px 0px 5px #553300,0px 0px 5px #553300;
+}
+.rectangle2{
+position: fixed;
+bottom: 64%;
+right: 52.1%;
+    width:13px;
+    height:50px;
+    background:white;
+	box-shadow: 0px 0px 10px white,0px 0px 10px white,0px 0px 10px white,0px 0px 5px #553300,0px 0px 5px #553300;
+}
+.rectangle3{
+position: fixed;
+bottom: 68.5%;
+right: 46.4%;
+    width:150px;
+    height:10px;
+    background:white;
+	box-shadow: 0px 0px 10px white,0px 0px 10px white,0px 0px 10px white,0px 0px 5px #553300,0px 0px 5px #553300;
+}
+@font-face {
+    font-family: pixelfont;
+    src: url(pixelfont.ttf);
+}
+
+#fonts {
+    font-family: pixelfont;
+}
+h1 {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  border: none;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  letter-spacing: 3px;
+  text-shadow: -3px 0 1px rgb(30,242,241) , 3px 0 1px rgb(246,5,10) ;
+}
+.blur {
+	  -webkit-filter: blur(12px); /* Safari */
+      filter: blur(12px);
+  }
+  video {
+
+        position: fixed;
+
+        top: 50%;
+
+        left: 50%;
+
+        min-width: 100%;
+
+        min-height: 100%;
+
+        width: 1300px;
+
+        height: 1300px;
+
+        z-index: -100;
+
+        transform: translateX(-50%) translateY(-50%);
+
+        background-size: cover;
+
+        transition: 1s opacity;		
+			  
+  filter: blur(1px);
+    }

@@ -1,0 +1,40 @@
+Uri: http://betabrothers.xyz/
+File Name: c:\Downloaded Web Sites\betabrothers.xyz\index.html
+Content Type: text/html
+
+Uri: http://betabrothers.xyz/matt_files/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\betabrothers.xyz\matt_files\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://betabrothers.xyz/matt_files/averion.min.css
+File Name: c:\Downloaded Web Sites\betabrothers.xyz\matt_files\averion.min.css
+Content Type: text/css
+
+Uri: http://betabrothers.xyz/matt_files/css.css
+File Name: c:\Downloaded Web Sites\betabrothers.xyz\matt_files\css.css
+Content Type: text/css
+
+Uri: http://betabrothers.xyz/matt_files/randomvid.js
+File Name: c:\Downloaded Web Sites\betabrothers.xyz\matt_files\randomvid.js
+Content Type: application/javascript
+
+Uri: http://betabrothers.xyz/matt_files/title.js.download
+File Name: c:\Downloaded Web Sites\betabrothers.xyz\matt_files\title.js.bin
+Content Type: application/octet-stream
+
+Uri: http://betabrothers.xyz/matt_files/main.js.download
+File Name: c:\Downloaded Web Sites\betabrothers.xyz\matt_files\main.js.bin
+Content Type: application/octet-stream
+
+Uri: http://betabrothers.xyz/matt_files/animated.js.download
+File Name: c:\Downloaded Web Sites\betabrothers.xyz\matt_files\animated.js.bin
+Content Type: application/octet-stream
+
+Uri: http://betabrothers.xyz/matt_files/index.js.download
+File Name: c:\Downloaded Web Sites\betabrothers.xyz\matt_files\index.js.bin
+Content Type: application/octet-stream
+
+Uri: http://betabrothers.xyz/matt_files/pixelfont.ttf
+File Name: c:\Downloaded Web Sites\betabrothers.xyz\matt_files\pixelfont.ttf
+Content Type: font/ttf
+
